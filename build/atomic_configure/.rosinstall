@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ant/work_test/src/lidar_lane_detection/build/devel/setup.sh
